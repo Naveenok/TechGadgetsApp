@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tech Gadgets App</string>
+    <string name="applicationName">Details about the Tech Gadgets</string>
+    <string name="decription">Electronics are getting smaller and smaller, and we all seem to have our own special must-have gadgets that we never leave home without. You probably already have a smartphone with you just about everywhere you go, but if you’re in the market for some new tech or a few cool add-ons, we’ve rounded up a large handful of palm-sized devices to add to your EDC loadout. If you want to buy some, you can get affordable prices on keyboards, SD cards, portable speakers, and more CLICK THE BUTTON BELOW AND EXPLORE</string>
+    <string name="buttonWelcome">Click and Explore</string>
+    <string name="buttonGadgets">click here for more details</string>
+
+    <string name="gadgets">Gadgets</string>
+    <string name="imageDescription">gadgets image</string>
+    <string name="gadgetName">Gadget Details</string>
+    <string name="gadgetImage">picture will replace the current picture when the application runs</string>
+
+    <string name="speaker">Portable Bluetooth Speaker</string>
+    <string name="gameController">Game Controller</string>
+    <string name="keyboard">Foldable Bluetooth Keyboard</string>
+    <string name="memoryCard">Memory Card with Adapter</string>
+    <string name="battery">External Battery Pack</string>
+
+
+
+    <string-array name="gadgetItems">
+        <item>EWA A106 Portable Bluetooth Speaker</item>
+        <item>Mini Wireless Bluetooth V2.1 Game Controller</item>
+        <item>Foldable Bluetooth Keyboard</item>
+        <item>Memory Card with Adapter</item>
+        <item>Portable Chargers RAVPower Luster Mini 3350mAh External Battery Pack</item>
+
+    </string-array>
+</resources>
